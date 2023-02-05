@@ -1,0 +1,8 @@
+Dataset has been taken from Kaggle Platform.
+This data set contains two class of images Cats and Dogs. This can be best utilized in a binary classification problem set in computer vision.
+Link - https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
+You have to download the dataset that is of around 826 MB.
+You have to keep only 1001 images of dogs and cats respectively in a dogs and cats folder.
+You have to make a folder naming "single" in ehich you have to upload any image on which you have to test the program.
+0 means Image of a Dog.
+1 menas Image of a Cat.
